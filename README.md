@@ -16,8 +16,8 @@ A dedicated repository for mastering **Python programming core mechanics** and d
 - [x] 2026.2~4 : CS50 @ Harvard via Youtube
 - [x] 2026.5 : Python Object-Oriented Programming Fundamentals from Youtube NadoCoding
 - [X] 2026.5 : Completed Making My New Python Repository @ Github
-- [ ] 2026.5~6 : Master Programmers Level 0 Core Mechanics (Progress: ~10%)
-- [ ] 2026.6~8 :Master Programmers Level 1 Advanced Implementation & Data Structure Logic (Ultimate Goal for first-year CS classes)
+- [X] 2026.5~9 : Master Programmers Level 0 Core Mechanics (Progress: 70%)
+- [X] 2026.9.21 : Archiving my study project for full concentration to my lab research
 
 ---
 
